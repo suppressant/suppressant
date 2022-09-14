@@ -1,5 +1,3 @@
 ![](https://komarev.com/ghpvc/?username=suppressant)
-<div align="center">
-   <a id="page" href="https://suppressant.github.io" target="_blank">
- <img src="https://github.com/suppressant/suppressant/commit/68743286cc3d8bdb5e5dfc424fc2a4cce2a789f4"/>  </a>
-    <div>
+
+![coders](https://user-images.githubusercontent.com/110358783/190030794-d2f97531-c84f-407a-9a03-a9b895ed8f12.gif)
