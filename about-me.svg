@@ -5,7 +5,7 @@
         :root{
           --main: #330100;
           --mainTransparent: #33010069;
-          --primary: #ffffff;
+          --primary: ##30cf00;
           --secondary: #2b7316;
         }
         html,body{
