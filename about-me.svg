@@ -6,7 +6,7 @@
           --main: #330100;
           --mainTransparent: #33010069;
           --primary: #0CED48;
-          --secondary: #2b7316;
+          --secondary: #0CED48;
         }
         html,body{
           padding: 0;
