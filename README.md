@@ -15,7 +15,7 @@
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 </div>
 
-### **Contact Me**
+### **Contact Me** 💌
 
 <p align='center'>
   <a href="https://t.me/suppressants">
@@ -32,52 +32,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### GitHub Status ⠀
-	⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛🟩🟩🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜
-⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩🟩🟩⬛⬜⬜⬜⬜
-⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩🟩⬛⬜⬜⬜⬜
-⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩⬛⬜⬜⬜⬜
-⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬜⬜⬜⬜⬜
-⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜⬜
-⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜⬜
-⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬜⬜⬜
-⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩⬛⬛⬜
-⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩🟩⬛
-⬛🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩⬛
-⬛🟩🟩🟩⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩⬛⬜
-⬛🟩🟩🟩⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬜⬜
-⬛🟩🟪🟪🟪⬛⬛🟩🟩🟩🟩⬛🟩🟩🟩🟩⬛🟩🟩🟩🟩🟩⬛⬛🟪🟪🟪🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜
-⬛🟩🟩🟪🟪🟪🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟪🟪🟪🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜
-⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜
-⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜
-⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩⬛⬜⬜⬜
-⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩⬛⬜⬜
-⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩🟩⬛⬜⬜
-⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛⬜⬜⬜
-⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛🟩🟩🟩⬛🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩⬛🟩🟩🟩🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩⬛🟩🟩⬛🟩🟩🟩⬛🟩🟩⬛🟩🟩⬛🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩⬛⬛🟩🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩⬛🟩⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩⬛⬛🟩⬛🟩🟩🟩🟩🟩⬛🟩⬛⬛🟩🟩⬛⬛⬛⬜⬛⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛🟩⬛🟩⬛🟩🟩🟩⬛🟩⬛🟩🟩⬛⬛🟩🟩⬛⬛🟩⬛⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛🟩⬛🟩🟩🟩🟩⬛⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩🟩⬛🟩🟩🟩🟩🟩⬛⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛🟩🟩🟩⬛🟩🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩🟩⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛🟩🟩🟩🟩⬛⬛⬛⬜⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+### GitHub Stats 📊
+
 <div id='profile-them'><a class='github-status' href='https://github.com/suppressant'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=suppressant&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/suppressant'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=suppressant&layout=compact' />
 </div>
@@ -86,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWongC&layout=compact)](https://github.com/suppressant)  -->
 <br/><br/>
 
-### skill sets. 🧰
+### skill sets. ⚔️
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -109,8 +65,7 @@
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Binance](https://img.shields.io/badge/binance-F0B90B.svg?style=for-the-badge&logo=binance&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/web3-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white)
+
 
 <br/>
 
