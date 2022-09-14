@@ -21,7 +21,7 @@
           animation-name: skew;
           animation-duration: 2s;
           color: var(--secondary);
-          background: linear-gradient(90deg, rgba(0,1,0,1) 0%, rgba(1,50,0,0.5130427170868348) 100%);
+          background: linear-gradient(90deg, rgba(0,1,0,1) 0%, rgba(1,100,0,0.5130427170868348) 100%);
           margin: 10px 10px;
           padding: 10px 10px;
           border-radius: 10px;
