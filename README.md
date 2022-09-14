@@ -18,16 +18,18 @@
 ### **Contact Me**
 
 <p align='center'>
-  <a href="https://t.me/clox1118">
+  <a href="https://t.me/suppressants">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/BpslfqV0kqaa">
     <img src="https://img.shields.io/badge/skype-00AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="Jackwindslow@gmail.com">
+  <a href="mailto:jackwindslow@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-
+  <a href="https://discordapp.com/users/tov#0205">
+    <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ### GitHub Status 😎
