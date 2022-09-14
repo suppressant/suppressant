@@ -21,7 +21,7 @@
           animation-name: skew;
           animation-duration: 2s;
           color: var(--secondary);
-          background: linear-gradient(90deg, rgba(0,1,0,1) 0%, rgba(51,1,0,0.5130427170868348) 100%);
+          background: linear-gradient(90deg, rgba(0,1,0,1) 0%, rgba(1,50,0,0.5130427170868348) 100%);
           margin: 10px 10px;
           padding: 10px 10px;
           border-radius: 10px;
@@ -103,10 +103,10 @@
         <h2> About me... 🤍♂️</h2>
         <p>😎: I am learning fullstack web develeopment 🖤 </p>
         <p>😉: Blockchain technology enthusiast. 🖤</p>
-        <p>🏠: hikikomori working from home 🌐</p>
+        <p>🏠: hikikomori working from home 🖤</p>
         <p>🖥️: Prefer to work on frontend development.♂️</p>
-        <p>🤗: Enjoy coding more than going on a date 🖤 </p>
-        <p>🎉: novice searching 4 ambitious likeminded individuals🖤</p>
+        <p>🤗: Enjoy coding more than going on a date 🖤</p>
+        <p>🌐: novice searching 4 ambitious likeminded individuals 🖤</p>
         <div id='top-bottom-dv'>
           <div class='top'>
           </div>
