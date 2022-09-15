@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="./styles/main.css">
 </head>
 
-<div align="center">![codinggg](https://user-images.githubusercontent.com/110358783/190431048-c6c6d80b-1912-4b5a-8c13-69377c2a61c5.gif) </div>
+<div align="center">![codinggg](https://user-images.githubusercontent.com/110358783/190431048-c6c6d80b-1912-4b5a-8c13-69377c2a61c5.gif)
 
 
 ### Hi there 📲I'm Jack Windslow 💻
