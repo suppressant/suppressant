@@ -17,9 +17,14 @@
 </div>
 	
 	
+	![codinggg](https://user-images.githubusercontent.com/110358783/190430723-c2d799cc-9415-419f-8939-21de11b0261c.gif)
+
 
 ### **Contact Me** 💌
 
+
+	
+	
 <p align='center'>
   <a href="https://t.me/suppressants">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
@@ -31,7 +36,6 @@
     <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-![codinggg](https://user-images.githubusercontent.com/110358783/190430525-35bea046-3a2e-4e12-ac59-c687d1c7fb99.gif)
 
 ### GitHub Stats 📊
 
