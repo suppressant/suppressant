@@ -10,7 +10,7 @@
 
 <div align="center">
 	![codinggg](https://user-images.githubusercontent.com/110358783/190431048-c6c6d80b-1912-4b5a-8c13-69377c2a61c5.gif)
-
+	</div>
 
 ### Hi there 📲I'm Jack Windslow 💻
 <div align="center">
