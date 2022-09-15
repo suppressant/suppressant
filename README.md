@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./styles/main.css">
 </head>
-<body>![woohoo](https://user-images.githubusercontent.com/110358783/190430011-5669b25f-d0f4-41d8-a89c-92c6a617714f.gif)
+
 
 
 ### Hi there 📲I'm Jack Windslow 💻
