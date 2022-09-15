@@ -9,7 +9,6 @@
 </head>
 
 
-	![codinggg](https://user-images.githubusercontent.com/110358783/190431048-c6c6d80b-1912-4b5a-8c13-69377c2a61c5.gif)
 
 
 ### Hi there 📲I'm Jack Windslow 💻
@@ -20,7 +19,8 @@
        
        
 </div>
-	
+	![codinggg](https://user-images.githubusercontent.com/110358783/190431552-df8ad16a-71dd-4829-9389-24b973eceddc.gif)
+
 	
 	
 ### **Contact Me** 💌
