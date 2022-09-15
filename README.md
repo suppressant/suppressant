@@ -8,12 +8,16 @@
   <link rel="stylesheet" href="./styles/main.css">
 </head>
 
+![codinggg](https://user-images.githubusercontent.com/110358783/190431048-c6c6d80b-1912-4b5a-8c13-69377c2a61c5.gif)
 
 
 ### Hi there 📲I'm Jack Windslow 💻
 <div align="center">
 	<br>
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source"
+       
+       
+       
 </div>
 	
 	
