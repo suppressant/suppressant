@@ -20,7 +20,7 @@
        
 </div>
 	
-	<p align='center'> 
+
 		
 ![codinggg](https://user-images.githubusercontent.com/110358783/190431885-b1520889-4d37-4c28-8020-e2de4292b059.gif)
 	</p>
