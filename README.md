@@ -15,6 +15,8 @@
 	<br>
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 </div>
+	
+	
 
 ### **Contact Me** 💌
 
@@ -29,6 +31,7 @@
     <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+![codinggg](https://user-images.githubusercontent.com/110358783/190430525-35bea046-3a2e-4e12-ac59-c687d1c7fb99.gif)
 
 ### GitHub Stats 📊
 
