@@ -13,13 +13,11 @@
 ### Hi there 📲I'm Jack Windslow 💻
 <div align="center">
 	<br>
-  <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
+  <img src="about-me.svg" width="800" height="auto" alt="Click to see the source"
 </div>
 	
 	
-	![codinggg](https://user-images.githubusercontent.com/110358783/190430723-c2d799cc-9415-419f-8939-21de11b0261c.gif)
-
-
+	
 ### **Contact Me** 💌
 
 
